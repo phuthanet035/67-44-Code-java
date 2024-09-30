@@ -1,0 +1,20 @@
+package W13;
+
+public class W13_02_introArray {
+
+    public static void main(Static[] args){
+        // ประกาศตัวแปร array แบบที่2 โดยไม่มีข้อมูล
+        String [] brand = new String[10];
+
+        //กำหนดค่าให้กับ array
+        brandCars[0] = "Toyota";
+        brandCars[0] = "Honda";
+        brandCars[0] = "Nissan";
+
+        //แสดงผลโดยใช้ loop
+        System.out.println("Brand of cars in the array are:")
+        for(int  ; ; ){
+
+        }  
+    } 
+}
